@@ -1,7 +1,8 @@
-#hacktoberfest
+# Welcome to RIG NITC
 
+---------------------
 
-code include scripts for fusion 360
-
-# you can edit this readme 
-
+- Make a fork of repo
+- Update your contributions
+- Make a pull request 
+- Wait for the mainteainer to merge
